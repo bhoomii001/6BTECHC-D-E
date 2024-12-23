@@ -9,32 +9,10 @@
 <body>
     <form id="form1" runat="server">
         <div>
-
-            HELLOOOOO<br />
-            <br />
-            CLASSSS<br />
-            <br />
-            <br />
-            <br />
-            C D E
-            <br />
-            <br />
-            <br />
-            <br />
-            WELCOMEE
-            <br />
-            <br />
-            <br />
-&nbsp;<asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
-            <br />
-            <br />
-            <br />
-            <br />
-            <asp:Image ID="Image1" runat="server" />
-            <br />
-            <br />
+HELLO   CLASSSS 
+         
         </div>
-<%--        <asp:ImageButton ID="ImageButton1" runat="server" />--%>
+
     </form>
 </body>
 </html>
